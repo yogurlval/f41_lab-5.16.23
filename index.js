@@ -276,6 +276,6 @@ console.log('New Total: ', newTotal)
 savings = (total-newTotal)/total*100
 console.log(savings)
 
-
+console.log("Pushing to Github is fun!")
 
 
